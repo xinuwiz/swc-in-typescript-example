@@ -1,0 +1,1 @@
+# SWC in Typescript Example
